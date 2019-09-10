@@ -13,6 +13,10 @@ TEKNOLOJİLER: Arduino, Node.js, C#, MQTT, Web Sockets, Javascript
 AMG8833 üzerinden alınan 8x8 tipinde ki sıcaklık değerleri, C# yardımıyla oluşturduğumuz MQTT Server'a iletildi. MQTT Server'daki veriler, Node.js ile alınarak veri analizi yapıldı.
 Sıcaklık değerlerine göre, sensörün görüş açısında ki nesnenin canlı olup olmadığı kontrolü yapıldı.
 Analiz sonucu, Socket.io yardımı ile bir HTML sayfaya döndürülüp, buradan javascript ile alınarak Heatmap.js ile asenkron ve canlı olarak görselize edildi.
+<br>
+
+  <a href="https://ibb.co/pK4rMXX"><img src="https://i.ibb.co/wQprP66/Poster-Formati22-1.jpg" alt="Poster-Formati22-1" border="0"></a>
+
 
 <hr>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RBcNKCM/amg8851.jpg" alt="amg8851" border="0"></a>

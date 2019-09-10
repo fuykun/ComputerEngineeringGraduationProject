@@ -1,8 +1,11 @@
 # Bilgisayar Mühendisliği Bitirme Projesi
 
 KONU: IOT
+<br>
 PROJE ADI: Kızılötesi Sensör ile Canlı Varlık Tespiti ve Uygulaması
+<br>
 DONANIMLAR: Nodemcu, AMG8833 IR Sensor
+<br>
 TEKNOLOJİLER: Arduino, Node.js, C#, MQTT, Web Sockets, Javascript
 
 <hr>

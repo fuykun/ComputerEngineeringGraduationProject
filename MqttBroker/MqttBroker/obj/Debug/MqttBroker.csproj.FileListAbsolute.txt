@@ -1,0 +1,50 @@
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\bin\Debug\MQTTnet.Core.dll
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\bin\Debug\MQTTnet.dll
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojAssemblyReference.cache
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CoreCompileInputs.cache
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CopyComplete
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+C:\Users\FUYKUN\source\repos\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\bin\Debug\MQTTnet.Core.dll
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\bin\Debug\MQTTnet.dll
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojAssemblyReference.cache
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CoreCompileInputs.cache
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CopyComplete
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+C:\Users\torpi\Desktop\bitimeee\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.Core.dll
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.dll
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojAssemblyReference.cache
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CoreCompileInputs.cache
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CopyComplete
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+E:\bittirme\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.Core.dll
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.dll
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojAssemblyReference.cache
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CoreCompileInputs.cache
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CopyComplete
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+C:\Users\FUYKUN\Desktop\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe.config
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.exe
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MqttBroker.pdb
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.Core.dll
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\bin\Debug\MQTTnet.dll
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csprojAssemblyReference.cache
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CoreCompileInputs.cache
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.csproj.CopyComplete
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.exe
+C:\Users\FUYKUN\Desktop\bitirmeyle ilgili herşey\bittirme22nisan\bitirmeson\MqttBroker\MqttBroker\obj\Debug\MqttBroker.pdb
